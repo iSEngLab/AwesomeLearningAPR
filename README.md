@@ -9,8 +9,9 @@
 A collection of academic publications, methodology, metrics and datasets on the subject of **automated program repair enhanced with deep/machine learning techniques**.
 
 
-A sortable version is available here: https://awesome-machine-unlearning.github.io/
 
+We welcome all researchers to contribute to this repository and further contribute to the knowledge of the learning-based APR field.
+Please feel free to contact us if you have any related references by Github issue or pull request. 
 
 ## Citation
 
