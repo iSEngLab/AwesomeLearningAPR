@@ -1,6 +1,8 @@
 # Awesome Learning-based APR
 
-==I plan to continue updating the latest papers when I have time, and PRs or issues about missing papers are also welcome.==
+
+**NOTE: I plan to continue updating the latest papers when I have time, and PRs or issues about missing papers are also welcome.**
+
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2301.03270-b31b1b.svg)](https://arxiv.org/abs/2301.03270)
