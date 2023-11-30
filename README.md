@@ -101,7 +101,7 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-230
 | [Language Models Can Prioritize Patches for Practical Program Patching](https://dl.acm.org/doi/abs/10.1145/3524459.3527343) | _APR_ | 2022 | no |
 | [Predicting Patch Correctness Based on the Similarity of Failing Test Cases](https://dl.acm.org/doi/abs/10.1145/3511096) | _TOSEM_ | 2022 | [yes](https://github.com/HaoyeTianCoder/BATS) |
 | [Defect Identification, Categorization, and Repair: Better Together](https://arxiv.org/abs/2204.04856) | _arxiv_ | 2022 | [yes](https://zenodo.org/record/5353354#.Y4CVdhRByUl) |
-| [Selfapr: Self-supervised Program Repair with Test Execution Diagnostics](https://arxiv.org/abs/2203.12755) | _ASE_ | 2022 | no |
+| [Selfapr: Self-supervised Program Repair with Test Execution Diagnostics](https://arxiv.org/abs/2203.12755) | _ASE_ | 2022 | [yes](https://github.com/ASSERT-KTH/SelfAPR) |
 | [Crex: Predicting Patch Correctness in Automated Repair of C Programs through Transfer Learning of Execution Semantics](https://www.sciencedirect.com/science/article/pii/S0950584922001562) | _IST_ | 2022 | [yes](https://github.com/1993ryan/crex) |
 | [Bug-transformer: Automated Program Repair Using Attention-based Deep Neural Network](https://www.worldscientific.com/doi/abs/10.1142/S0218126622502103) | _JCSC_ | 2022 | no |
 | [Katana: Dual Slicing-based Context for Learning Bug Fixes](https://arxiv.org/abs/2205.00180) | _arxiv_ | 2022 | no |
