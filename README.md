@@ -22,10 +22,14 @@ Please read and cite our paper: [![arXiv](https://img.shields.io/badge/arXiv-230
 
 ```
 @article{zhang2023survey,
-  title={A Survey of Learning-based Automated Program Repair},
-  author={Quanjun Zhang, Chunrong Fang, Yuxiang Ma, Weisong Sun, Zhenyu Chen},
-  journal={arXiv preprint arXiv:2301.03270},
-  year={2023}
+  title = {A Survey of Learning-Based Automated Program Repair},
+  author = {Zhang, Quanjun and Fang, Chunrong and Ma, Yuxiang and Sun, Weisong and Chen, Zhenyu},
+  journal={ACM Transactions on Software Engineering and Methodology},
+  volume={33},
+  number={2},
+  pages={1--69},
+  year={2023},
+  publisher={ACM New York, NY}
 }
 ```
 
