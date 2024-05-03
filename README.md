@@ -1,13 +1,13 @@
 # Awesome Learning-based APR
-
-
-**NOTE: I plan to continue updating the latest papers when I have time, and PRs or issues about missing papers are also welcome.**
-
-
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![arXiv](https://img.shields.io/badge/arXiv-2301.03270-b31b1b.svg)](https://arxiv.org/abs/2301.03270)
 ![GitHub stars](https://img.shields.io/github/stars/QuanjunZhang/AwesomeLearningAPR?color=yellow&label=Stars)
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=%20QuanjunZhang.AwesomeLearningAPR) 
+
+🔥🔥[2024-05-03] We have released a new paper about LLM4APR, [A Systematic Literature Review on Large Language Models for Automated Program Repair](https://arxiv.org/abs/2405.01466). Please refer to <a href="https://arxiv.org/abs/2405.01466"><img src="https://img.shields.io/badge/arXiv-2405.01466-blue.svg"></a> and <a href="https://github.com/iSEngLab/AwesomeLLM4APR/"><img src="https://img.shields.io/badge/GitHub-AwesomeLLM4APR-blue.svg"></a>
+
+
+
 
 A collection of academic publications, methodology, metrics and datasets on the subject of **automated program repair enhanced with deep/machine learning techniques**.
 
